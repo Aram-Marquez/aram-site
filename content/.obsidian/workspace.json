@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "2f35ab3cfa426ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8709b9329751027c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f010187c81811c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portfolio/The Sound of Delight/TheSoundOfDelight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc722bc0d2e8bb93",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c1a237814e9f34f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e410db8e841ee58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5305f69e917336d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cf3b9266f1beaff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e5d3b09ac79beaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6983c453d81371da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503731c543de8bae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Portfolio/The Sound of Delight/TheSoundOfDelight.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7eb8d92c26ce1385",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Portfolio/The Sound of Delight/TheSoundOfDelight.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4733059d5c6558f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24540096cc403841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Portfolio/The Sound of Delight/TheSoundOfDelight.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2f010187c81811c",
+  "lastOpenFiles": [
+    "Portfolio/The Sound of Delight/featureed.jpg",
+    "Portfolio/The Sound of Delight/TheSoundOfDelight.md",
+    "Portfolio/The Sound of Delight/featured.jpg"
+  ]
+}
