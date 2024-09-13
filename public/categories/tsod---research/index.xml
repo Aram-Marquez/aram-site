@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Aram Marquez</title>
-    <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content in Portfolios on Aram Marquez</description>
+    <title>TSOD - Research on Aram Marquez</title>
+    <link>http://localhost:1313/categories/tsod---research/</link>
+    <description>Recent content in TSOD - Research on Aram Marquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@arammarquez.com (Aram Marquez)</managingEditor>
     <webMaster>contact@arammarquez.com (Aram Marquez)</webMaster>
     <copyright>© 2024 Aram Marquez</copyright>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tsod---research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sound of Delight</title>
       <link>http://localhost:1313/portfolio/the-sound-of-delight/</link>

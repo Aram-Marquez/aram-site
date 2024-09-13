@@ -20,15 +20,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/myfirstpost/featured.jpg" />
     </item>
     
-    <item>
-      <title>My first post</title>
-      <link>http://localhost:1313/portfolio/the-sound-of-delight/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <author>contact@arammarquez.com (Aram Marquez)</author>
-      <guid>http://localhost:1313/portfolio/the-sound-of-delight/</guid>
-      <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/the-sound-of-delight/featured.jpg" />
-    </item>
-    
   </channel>
 </rss>

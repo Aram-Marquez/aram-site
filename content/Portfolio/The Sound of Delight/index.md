@@ -2,8 +2,8 @@
 title: "The Sound of Delight"
 date: 2023-08-14
 draft: false
-summary: "This is my first post on my site"
-categories: ["TheSoundOfDelight"]
+summary: "A short animation that follows Delight, a fox with hearing problems, as he navigates the stigma of his disability in a world filled with magic and wonder."
+categories: ["TSOD - Research"]
 
 ---
 <div class="video-container" style="padding:56.25% 0 0 0;position:relative;">
