@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Aram Marquez</title>
-    <link>https://arammarquez.pages.dev/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Aram Marquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@arammarquez.com (Aram Marquez)</managingEditor>
     <webMaster>contact@arammarquez.com (Aram Marquez)</webMaster>
     <copyright>© 2024 Aram Marquez</copyright>
-    <atom:link href="https://arammarquez.pages.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
